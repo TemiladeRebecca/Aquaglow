@@ -76,7 +76,7 @@ export default function Home() {
               className="rounded-xl w-full h-auto object-cover"
             />
           </div>
-          <div className="md:w-1/2 md:-mt-12 w-full">
+          <div className="md:w-1/2 md:-mt-12 w-full text-center md:text-left">
             <h2 className="text-5xl font-bold text-cyan-700 text-center mb-4 md:text-left">Aquaglow</h2>
             <p className="text-gray-600 text-2xl leading-relaxed mb-4">
               Aquaglow is your go-to premium bottled water brand committed to refreshing lives with pure hydration. 
@@ -90,7 +90,7 @@ export default function Home() {
 
         </div>
         <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center gap-8">    
-          <div className="md:w-1/2 md:-mt-12 w-full">
+          <div className="md:w-1/2 md:-mt-12 w-full text-center md:text-left">
             <h2 className="text-5xl font-bold text-cyan-700 text-center mb-4 md:text-left">Aquabloom</h2>
             <p className="text-gray-600 text-2xl leading-relaxed mb-4">
               Aquaglow is your go-to premium bottled water brand committed to refreshing lives with pure hydration. 
